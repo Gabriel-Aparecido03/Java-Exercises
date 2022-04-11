@@ -17,7 +17,7 @@ class Main {
         nota2 = ler.nextFloat();
         System.out.println("Faltas secondo bimestre: ");
         falta2 = ler.nextInt();
-
+    
         System.out.println("Nota terceiro bimestre: ");
         nota3 = ler.nextFloat();
         System.out.println("Faltas terceiro bimestre: ");
